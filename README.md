@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wakabaloola.
+- 👋 Hi, I’m @wakabaloola, I am new at github.
 - 👀 I’m interested in all aspects of high energy physics, quantum gravity, superstring theory, mathematics, boardgames and rule-building, 
 and more broadly challenging projects involving a broad and analytical toolset.
 - 🌱 I’m currently developing my Python and Stochastic Calculus toolset.
