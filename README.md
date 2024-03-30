@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @wakabaloola, I am new at github.
-- 👀 I have been working on many aspects of high energy physics, quantum gravity, superstring theory, mathematics, boardgames and rule-building, 
-and more broadly I am interested in challenging projects involving a broad and analytical toolset.
-- 🌱 I’m currently expanding my Python and Stochastic Calculus toolset.
-- 💞️ I am open to collaborate on projects.
-- 📫 You can reach me at wakabaloopa@gmail.com
+- 👋 Hi, I’m Dimitri.  My main interest currently is in developing and contributing to the cutting-edge research and analysis of financial derivatives and corresponding mathematics, but also more broad aspects of quantitative finance.
+- I have a strong passion for getting involved in challenging projects requiring a broad and analytical toolset, I am open to collaborate on projects.
+- Python is currently my main programming language of choice.
+- I have a background in high energy physics, quantum gravity and in particular superstring theory, at a professional research level.
+- I also have various hobbies, including boardgames building and rule-building, wildlife photography, watercolour painting.
+- 📫 You can reach me at wakabaloola@gmail.com
 
 <!---
 wakabaloola/wakabaloola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
