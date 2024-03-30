@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dimitri.  My main interest currently is in developing and contributing to the cutting-edge research and analysis of financial derivatives and corresponding mathematics, but am also interested in wider aspects of quantitative finance.
+- 👋 Hi, I’m Dimitri.  My main interest currently is in developing and contributing to the cutting-edge research and analysis in quantitative finance, of financial derivatives and corresponding mathematics in particular. 
 - I have a strong passion for getting involved in challenging projects requiring a broad and analytical toolset, I am open to collaborate on projects.
 - Python is currently my main programming language of choice.
 - I have a background in high energy physics, quantum gravity and in particular superstring theory, at a professional research level.
