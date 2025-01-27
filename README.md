@@ -1,9 +1,29 @@
-- Hi, I’m Dimitri.  I am interested in developing and contributing to quantitative analysis and research projects.
-- I have a background in high energy physics research, I did my doctorate in string theory and have worked on numerous string theory and quantum gravity projects throughout my early career. 
-- I have a strong passion for getting involved in challenging projects requiring a broad and analytical toolset, I am interested to collaborate on projects.
-- Python is currently my main programming language of choice, but I have a working familiarity with various other programming languages (such as UNIX, MATLAB, and I am learning Rust.)
-- I also have various hobbies, including boardgame and rule building, wildlife photography, watercolour painting.
-- 📫 You can reach me at wakabaloola@gmail.com
+# Hi there, I'm Dimitri! 
+
+I am a **High-Energy Physics Researcher** turned **Python Developer**, passionate about solving complex problems through analytical insight and creative thinking. 
+
+- **Background**:  
+  - DPhil in String Theory with experience in Quantum Gravity research and advanced computational methods.  
+  - Previous work at TIFR (Mumbai) and Imperial College London, focusing on cutting-edge theoretical physics.  
+
+- **Technical Interests**:  
+  - **Python** as my primary programming language (backend development, data analysis).  
+  - Experience with **MATLAB**, **Mathematica**, **UNIX**, and am currently learning **Rust**.  
+  - Strong grounding in **mathematics** and **physics**, with a knack for tackling tricky problems.  
+
+- **What I’m Working On**:  
+  - Contributing to projects that require robust quantitative analysis.  
+  - Training AI models (DataAnnotation Tech) and staying curious about innovative applications of machine learning.  
+
+- **Collaborations & Interests**:  
+  - Always open to teaming up on challenging projects in data science, scientific computing, or research-oriented development.  
+  - Interested in building game mechanics (board games, rule design) and exploring creative pursuits (wildlife photography, watercolor painting).  
+
+- **Get in Touch**:  
+  - Feel free to reach out at [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
+  - Let’s connect if you have a project in mind or just want to talk about the wonders of quantum fields, Python, or new board game ideas!
+
+Thanks for stopping by, and happy coding!
 
 <!---
 wakabaloola/wakabaloola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
