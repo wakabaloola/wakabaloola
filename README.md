@@ -1,24 +1,28 @@
-I am a **High-Energy Physicist Researcher** turned **Python Developer**, passionate about solving complex problems through analytical insight and creative thinking. 
+## Background
 
-- **Background**:  
-  - DPhil in String Theory with experience in Quantum Gravity research and advanced computational methods.  
-  - Previous work at TIFR (Mumbai) and Imperial College London, focusing on cutting-edge theoretical physics (quantum gravity in superstring theory).
+  - DPhil in String Theory with extensive research experience on quantum field theory, string theory and quantum gravity projects.
+  - Previous work at Tata Institute for Fundamental Research (TIFR), Imperial College London and the Max Planck Institute for Physics in Munich. 
   - Experience in training a wide variety of AI models (DataAnnotation Tech) on coding, maths and physics.  
 
-- **Technical Interests**:  
-  - **Python** as my primary programming language (backend development, data analysis).  
-  - Strong grounding in **mathematics** (including stats and probabilities, differential geometry, complex analysis, ...) and **physics** (including quantum field theory, superstring theory, quantum gravity).
-  - Experience with **MATLAB**, **Mathematica**, **UNIX**, and am currently learning **Rust**.  
+## Technical Interests
 
-- **What I’m Working On**:  
-  - I am currently developing a sort-term contrarian quantitative trading project --stay tuned for updates on that!
+  - Python as my primary programming language (backend development).  
+  - Strong interest in all branches of mathematics (including stats and probabilities, differential geometry, complex analysis, ...) and physics (including quantum field theory, superstring theory, quantum gravity), and (in particular) applications thereof.
+  - Experience with **MATLAB**, **Mathematica**, **UNIX**, and am currently learning **Rust**.
 
-- **Collaborations & Interests**:  
+## What I’m Currently Working On
+
+  - I am currently developing a short-term contrarian quantitative trading project --stay tuned for updates on that!
+
+## Collaborations & Interests
+
   - Open to teaming up on challenging projects in finance, data science, or research-oriented development.  
-  - I also have interest and experience in building game mechanics (board games, rule design).  
+  - I also have interest and experience in building game mechanics (board games, rule design).
+  - Feel free to drop me a message if you would like to have a chat!
 
-- **Get in Touch**:  
-  - Feel free to reach out at [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
+## Get in Touch
+
+  - I can be contacted at [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
 
 Thanks for stopping by, and happy coding!
 
