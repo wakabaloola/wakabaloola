@@ -6,9 +6,9 @@
 
 ## Technical Interests
 
-  - Python as my primary programming language (backend development).  
-  - Strong interest in all branches of mathematics (including stats and probabilities, differential geometry, complex analysis, ...) and physics (including quantum field theory, superstring theory, quantum gravity), and (in particular) applications thereof.
-  - Experience with **MATLAB**, **Mathematica**, **UNIX**, and am currently learning **Rust**.
+  - Python as my primary programming language.
+  - Strong interest in all branches of mathematics (including stats and probabilities, differential geometry, group theory, complex analysis, ...) and physics (including quantum field theory, superstring theory, quantum gravity), and (in particular) applications thereof.
+  - Experience with Bash, MATLAB, Mathematica, UNIX, and am currently learning RUST.
 
 ## What I’m Currently Working On
 
