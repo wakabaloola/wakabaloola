@@ -1,27 +1,24 @@
-# Hi there, I'm Dimitri! 
-
-I am a **High-Energy Physics Researcher** turned **Python Developer**, passionate about solving complex problems through analytical insight and creative thinking. 
+I am a **High-Energy Physicist Researcher** turned **Python Developer**, passionate about solving complex problems through analytical insight and creative thinking. 
 
 - **Background**:  
   - DPhil in String Theory with experience in Quantum Gravity research and advanced computational methods.  
-  - Previous work at TIFR (Mumbai) and Imperial College London, focusing on cutting-edge theoretical physics.  
+  - Previous work at TIFR (Mumbai) and Imperial College London, focusing on cutting-edge theoretical physics (quantum gravity in superstring theory).
+  - Experience in training a wide variety of AI models (DataAnnotation Tech) on coding, maths and physics.  
 
 - **Technical Interests**:  
   - **Python** as my primary programming language (backend development, data analysis).  
+  - Strong grounding in **mathematics** (including stats and probabilities, differential geometry, complex analysis, ...) and **physics** (including quantum field theory, superstring theory, quantum gravity).
   - Experience with **MATLAB**, **Mathematica**, **UNIX**, and am currently learning **Rust**.  
-  - Strong grounding in **mathematics** and **physics**, with a knack for tackling tricky problems.  
 
 - **What I’m Working On**:  
-  - Contributing to projects that require robust quantitative analysis.  
-  - Training AI models (DataAnnotation Tech) and staying curious about innovative applications of machine learning.  
+  - I am currently developing a sort-term contrarian quantitative trading project --stay tuned for updates on that!
 
 - **Collaborations & Interests**:  
-  - Always open to teaming up on challenging projects in data science, scientific computing, or research-oriented development.  
-  - Interested in building game mechanics (board games, rule design) and exploring creative pursuits (wildlife photography, watercolor painting).  
+  - Open to teaming up on challenging projects in finance, data science, or research-oriented development.  
+  - I also have interest and experience in building game mechanics (board games, rule design).  
 
 - **Get in Touch**:  
   - Feel free to reach out at [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
-  - Let’s connect if you have a project in mind or just want to talk about the wonders of quantum fields, Python, or new board game ideas!
 
 Thanks for stopping by, and happy coding!
 
