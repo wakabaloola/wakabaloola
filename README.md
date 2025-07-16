@@ -21,7 +21,7 @@ I am developing a quantitative finance platform, `quantsuite.io`, using Django. 
 
 ## Get in Touch
 
-  - [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
+  - [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com)
 
 <!---
 wakabaloola/wakabaloola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
