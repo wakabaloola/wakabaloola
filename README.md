@@ -7,8 +7,8 @@
 ## Technical Interests
 
   - Broadly, I am interested in intricate structures with real-world applications.
-  - All branches of mathematics (including stats and probabilities, stochastic calculus, differential geometry, group theory, complex analysis, ...) and physics (including quantum field theory, superstring theory, quantum gravity).
-  - I like to think that I use the programming language appropriate for the task at hand. Much of my experience is in Python (Django, Numpy, Pandas, SciPy, etc.), I am a RUST fan.
+  - All branches of mathematics (including stats and probabilities, stochastic calculus, differential geometry, group theory, complex analysis, ...), real-world applications in quantitative finance, and physics (including quantum field theory, superstring theory, quantum gravity).
+  - Much of my experience is in Python (Django, Numpy, Pandas, SciPy, etc.), but I like to think that I use the programming language appropriate for the task at hand. I am also a RUST fan.
 
 ## What I’m Currently Working On
 
