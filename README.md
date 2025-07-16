@@ -7,7 +7,7 @@ DPhil in String Theory with research experience on quantum field theory, string 
 
   - Broadly, I am interested in intricate structures with real-world applications.
   - All branches of mathematics (including stats and probabilities, stochastic calculus, differential geometry, group theory, complex analysis, ...), real-world applications in quantitative finance, and physics (including quantum field theory, superstring theory, quantum gravity).
-  - As far as programming languages are concerned, I like to think that I use those appropriate for the task at hand.  Due to the vast number of excellent available libraries, I end up using Python most of the time (Django, Numpy, Pandas, SciPy, etc.). I am also a RUST fan.
+  - Programming languages: those appropriate for the task at hand.  Due to the vast number of excellent available libraries, I end up using Python much of the time (Django, Numpy, Pandas, SciPy, etc.). I am also a RUST fan.
 
 ## What I’m Currently Working On
 
