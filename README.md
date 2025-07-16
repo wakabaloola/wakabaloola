@@ -1,8 +1,7 @@
 ## Background
 
-  - DPhil in String Theory with research experience on quantum field theory, string theory and quantum gravity projects.
-  - Previous work at Tata Institute for Fundamental Research (TIFR), Imperial College London and the Max Planck Institute for Physics in Munich. 
-  - Experience in training a wide variety of AI models (DataAnnotation Tech) on coding, maths and physics.  
+DPhil in String Theory with research experience on quantum field theory, string theory and quantum gravity projects. (Previous work at Tata Institute for Fundamental Research (TIFR) in Mumbai, Imperial College London, and the Max Planck Institute for Physics in Munich.)
+  <!-- Experience in training a wide variety of AI models (DataAnnotation Tech) on coding, maths and physics. -->
 
 ## Technical Interests
 
@@ -12,11 +11,17 @@
 
 ## What I’m Currently Working On
 
-  - I am currently developing a quantitative finance platform, `quantsuite.io`,  stay tuned for updates.
+  - I am developing a quantitative finance platform, `quantsuite.io`,  stay tuned for updates. 
+
+## Hobbies
+
+  - Wildlife photography
+  - Watercolour Painting
+  - Coffee
 
 ## Get in Touch
 
-  - I can be contacted at [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
+  - [wakabaloola@gmail.com](mailto:wakabaloola@gmail.com).  
 
 <!---
 wakabaloola/wakabaloola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
