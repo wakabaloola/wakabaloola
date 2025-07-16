@@ -17,6 +17,7 @@ I am developing a quantitative finance platform, `quantsuite.io`, using Django. 
 
   - Wildlife photography
   - Watercolour Painting
+  - Boardgame mechanics
   - Coffee
 
 ## Get in Touch
