@@ -11,7 +11,7 @@ DPhil in String Theory with research experience on quantum field theory, string 
 
 ## What I’m Currently Working On
 
-I am developing a quantitative finance platform, `quantsuite.io`. You’re building a quantitative finance platform using Django, designed for real-time trading, analytics, and strategy execution. It integrates Celery for handling background tasks like backtesting and market data processing, Redis for fast in-memory data storage and task queuing, and WebSockets powered by Django Channels to deliver live updates such as order book changes, trade executions, and portfolio metrics. The architecture emphasizes low latency, scalability, and a responsive user experience, making it suitable for professional trading and risk management environments. Stay tuned for updates.
+I am developing a quantitative finance platform, `quantsuite.io`, using Django. The design emphasis is on real-time trading, analytics, and strategy execution. It integrates Celery for handling background tasks (like backtesting and market data processing), Redis for fast in-memory data storage and task queuing, and WebSockets (powered by Django Channels) to deliver live updates such as order book changes, trade executions, and portfolio metrics. The architecture emphasizes low latency, scalability, and a responsive user experience, making it suitable for professional trading and risk management environments. Stay tuned for updates.
 
 ## Hobbies
 
